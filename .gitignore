@@ -1,11 +1,11 @@
 # Logs
-log1111111s
-*.log1111111
-npm-debug.log1111111*
-yarn-debug.log1111111*
-yarn-error.log1111111*
-pnpm-debug.log1111111*
-lerna-debug.log1111111*
+log21111111s
+*.log21111111
+npm-debug.log21111111*
+yarn-debug.log21111111*
+yarn-error.log21111111*
+pnpm-debug.log21111111*
+lerna-debug.log21111111*
 
 node_modules
 .DS_Store
