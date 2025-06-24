@@ -1,11 +1,11 @@
 # Logs
-logmarks
-*.logmark
-npm-debug.logmark*
-yarn-debug.logmark*
-yarn-error.logmark*
-pnpm-debug.logmark*
-lerna-debug.logmark*
+lotmarks
+*.lotmark
+npm-debug.lotmark*
+yarn-debug.lotmark*
+yarn-error.lotmark*
+pnpm-debug.lotmark*
+lerna-debug.lotmark*
 
 node_modules
 .DS_Store
